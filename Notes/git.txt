@@ -1,0 +1,18 @@
+Dodavanje sa locala na git,
+1.napravimo repos na gitu
+2.u folderu koji zelimo da uploadujemo preko command :  - git init
+							- git add . 
+							- git commint -m "tekst poruke"
+							- git remote add origin link repos
+							- git push origin main/master
+
+Dodavanje nove grane
+
+1.git branch imegrane
+2.git branch (izlistava sve grane)
+3.git checkout imegrane u koju zelimo uci
+
+
+Spajanje grana
+
+1.git merge nazivgrane_koju_spajamo_sa_main/master
